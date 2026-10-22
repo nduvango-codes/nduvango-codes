@@ -37,11 +37,11 @@ Sou um entusiasta da tecnologia, interessado em programação, desenvolvimento w
 ## 📊 Estatísticas do GitHub
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nduvango_codes&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nduvango-codes&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nduvango_codes&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nduvango-codes&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </p>
 
 ## 🤝 Vamos conectar-nos!
